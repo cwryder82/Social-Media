@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social Media</string>
+
+    <string name="facebook_app_id">415299901994247</string>
+    <string name="facebook_scope">
+        public_profile, email, user_friends, user_location, user_birthday
+    </string>
+
+    <string name="linkedin_client_id">77o3qd50a9yx2b</string>
+    <string name="linkedin_client_secret">AREoV9tMZIfD89dw</string>
+    <string name="linkedin_scope">r_basicprofile+r_emailaddress+rw_company_admin+w_share</string>
+    <string name="callback_url">https://github.com/cwryder82</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
